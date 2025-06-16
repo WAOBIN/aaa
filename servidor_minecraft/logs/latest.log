@@ -209,3 +209,401 @@
 [16Jun2025 23:13:31.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Gave 1 [Command Block] to 2]
 [16Jun2025 23:13:49.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Bat]
 [16Jun2025 23:13:49.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> primero mi hueco
+[16Jun2025 23:14:25.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> cuál es tu plan?
+[16Jun2025 23:14:29.505] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1016, l='ServerLevel[world]', x=-171.61, y=67.60, z=-78.46]
+[16Jun2025 23:14:29.505] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1016, l='ServerLevel[world]', x=-171.61, y=67.60, z=-78.46]
+[16Jun2025 23:14:29.506] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1017, l='ServerLevel[world]', x=-176.39, y=64.74, z=-77.62]
+[16Jun2025 23:14:29.506] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1017, l='ServerLevel[world]', x=-176.39, y=64.74, z=-77.62]
+[16Jun2025 23:14:29.507] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1018, l='ServerLevel[world]', x=-183.54, y=67.48, z=-82.50]
+[16Jun2025 23:14:29.507] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1018, l='ServerLevel[world]', x=-183.54, y=67.48, z=-82.50]
+[16Jun2025 23:14:29.508] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1019, l='ServerLevel[world]', x=-178.52, y=63.60, z=-80.60]
+[16Jun2025 23:14:29.508] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1019, l='ServerLevel[world]', x=-178.52, y=63.60, z=-80.60]
+[16Jun2025 23:14:29.509] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1020, l='ServerLevel[world]', x=-178.47, y=64.65, z=-83.43]
+[16Jun2025 23:14:29.509] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1020, l='ServerLevel[world]', x=-178.47, y=64.65, z=-83.43]
+[16Jun2025 23:14:29.510] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1021, l='ServerLevel[world]', x=-183.66, y=65.43, z=-79.50]
+[16Jun2025 23:14:29.510] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1021, l='ServerLevel[world]', x=-183.66, y=65.43, z=-79.50]
+[16Jun2025 23:14:29.510] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1022, l='ServerLevel[world]', x=-179.66, y=63.55, z=-83.74]
+[16Jun2025 23:14:29.510] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1022, l='ServerLevel[world]', x=-179.66, y=63.55, z=-83.74]
+[16Jun2025 23:14:29.511] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1023, l='ServerLevel[world]', x=-182.50, y=65.71, z=-78.72]
+[16Jun2025 23:14:29.511] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1023, l='ServerLevel[world]', x=-182.50, y=65.71, z=-78.72]
+[16Jun2025 23:14:29.511] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1024, l='ServerLevel[world]', x=-183.33, y=66.36, z=-79.59]
+[16Jun2025 23:14:29.511] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1024, l='ServerLevel[world]', x=-183.33, y=66.36, z=-79.59]
+[16Jun2025 23:14:29.513] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1025, l='ServerLevel[world]', x=-180.40, y=68.26, z=-86.62]
+[16Jun2025 23:14:29.513] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1025, l='ServerLevel[world]', x=-180.40, y=68.26, z=-86.62]
+[16Jun2025 23:14:29.514] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/1026, l='ServerLevel[world]', x=-180.56, y=63.72, z=-78.55]
+[16Jun2025 23:14:29.514] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/1026, l='ServerLevel[world]', x=-180.56, y=63.72, z=-78.55]
+[16Jun2025 23:14:29.515] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1027, l='ServerLevel[world]', x=-174.35, y=67.34, z=-86.75]
+[16Jun2025 23:14:29.515] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1027, l='ServerLevel[world]', x=-174.35, y=67.34, z=-86.75]
+[16Jun2025 23:14:29.515] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1028, l='ServerLevel[world]', x=-177.38, y=63.64, z=-83.33]
+[16Jun2025 23:14:29.517] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1028, l='ServerLevel[world]', x=-177.38, y=63.64, z=-83.33]
+[16Jun2025 23:14:29.518] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1029, l='ServerLevel[world]', x=-174.55, y=67.37, z=-85.49]
+[16Jun2025 23:14:29.518] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1029, l='ServerLevel[world]', x=-174.55, y=67.37, z=-85.49]
+[16Jun2025 23:14:30.042] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1077, l='ServerLevel[world]', x=-185.57, y=65.67, z=-86.55]
+[16Jun2025 23:14:30.043] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1077, l='ServerLevel[world]', x=-185.57, y=65.67, z=-86.55]
+[16Jun2025 23:14:30.044] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1078, l='ServerLevel[world]', x=-183.56, y=65.41, z=-87.49]
+[16Jun2025 23:14:30.046] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1078, l='ServerLevel[world]', x=-183.56, y=65.41, z=-87.49]
+[16Jun2025 23:14:30.046] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1079, l='ServerLevel[world]', x=-181.54, y=65.40, z=-86.66]
+[16Jun2025 23:14:30.047] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1079, l='ServerLevel[world]', x=-181.54, y=65.40, z=-86.66]
+[16Jun2025 23:14:30.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1080, l='ServerLevel[world]', x=-180.30, y=69.48, z=-89.53]
+[16Jun2025 23:14:30.048] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1080, l='ServerLevel[world]', x=-180.30, y=69.48, z=-89.53]
+[16Jun2025 23:14:30.049] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1081, l='ServerLevel[world]', x=-182.59, y=67.66, z=-89.36]
+[16Jun2025 23:14:30.051] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1081, l='ServerLevel[world]', x=-182.59, y=67.66, z=-89.36]
+[16Jun2025 23:14:30.051] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1082, l='ServerLevel[world]', x=-185.27, y=66.42, z=-88.51]
+[16Jun2025 23:14:30.051] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1082, l='ServerLevel[world]', x=-185.27, y=66.42, z=-88.51]
+[16Jun2025 23:14:30.052] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1083, l='ServerLevel[world]', x=-183.46, y=64.30, z=-82.69]
+[16Jun2025 23:14:30.053] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1083, l='ServerLevel[world]', x=-183.46, y=64.30, z=-82.69]
+[16Jun2025 23:14:30.055] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1084, l='ServerLevel[world]', x=-183.44, y=64.72, z=-80.53]
+[16Jun2025 23:14:30.055] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1084, l='ServerLevel[world]', x=-183.44, y=64.72, z=-80.53]
+[16Jun2025 23:14:30.056] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1085, l='ServerLevel[world]', x=-176.32, y=66.56, z=-90.44]
+[16Jun2025 23:14:30.056] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1085, l='ServerLevel[world]', x=-176.32, y=66.56, z=-90.44]
+[16Jun2025 23:14:30.057] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1086, l='ServerLevel[world]', x=-180.53, y=68.41, z=-90.28]
+[16Jun2025 23:14:30.058] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1086, l='ServerLevel[world]', x=-180.53, y=68.41, z=-90.28]
+[16Jun2025 23:14:30.060] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/1087, l='ServerLevel[world]', x=-187.72, y=69.30, z=-88.39]
+[16Jun2025 23:14:30.060] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/1087, l='ServerLevel[world]', x=-187.72, y=69.30, z=-88.39]
+[16Jun2025 23:14:30.061] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1088, l='ServerLevel[world]', x=-177.46, y=65.60, z=-89.25]
+[16Jun2025 23:14:30.061] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1088, l='ServerLevel[world]', x=-177.46, y=65.60, z=-89.25]
+[16Jun2025 23:14:30.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1089, l='ServerLevel[world]', x=-186.51, y=67.71, z=-83.46]
+[16Jun2025 23:14:30.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1089, l='ServerLevel[world]', x=-186.51, y=67.71, z=-83.46]
+[16Jun2025 23:14:30.063] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1090, l='ServerLevel[world]', x=-186.60, y=64.29, z=-87.70]
+[16Jun2025 23:14:30.063] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1090, l='ServerLevel[world]', x=-186.60, y=64.29, z=-87.70]
+[16Jun2025 23:14:30.064] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1091, l='ServerLevel[world]', x=-186.73, y=69.54, z=-89.26]
+[16Jun2025 23:14:30.065] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1091, l='ServerLevel[world]', x=-186.73, y=69.54, z=-89.26]
+[16Jun2025 23:14:30.068] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1092, l='ServerLevel[world]', x=-176.40, y=67.30, z=-91.43]
+[16Jun2025 23:14:30.068] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1092, l='ServerLevel[world]', x=-176.40, y=67.30, z=-91.43]
+[16Jun2025 23:14:30.069] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1093, l='ServerLevel[world]', x=-178.48, y=66.43, z=-90.39]
+[16Jun2025 23:14:30.069] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1093, l='ServerLevel[world]', x=-178.48, y=66.43, z=-90.39]
+[16Jun2025 23:14:30.070] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1094, l='ServerLevel[world]', x=-187.69, y=68.58, z=-88.73]
+[16Jun2025 23:14:30.070] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1094, l='ServerLevel[world]', x=-187.69, y=68.58, z=-88.73]
+[16Jun2025 23:14:30.070] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1095, l='ServerLevel[world]', x=-188.61, y=65.50, z=-83.65]
+[16Jun2025 23:14:30.071] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1095, l='ServerLevel[world]', x=-188.61, y=65.50, z=-83.65]
+[16Jun2025 23:14:30.071] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/1096, l='ServerLevel[world]', x=-179.68, y=61.50, z=-77.56]
+[16Jun2025 23:14:30.072] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/1096, l='ServerLevel[world]', x=-179.68, y=61.50, z=-77.56]
+[16Jun2025 23:14:30.073] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1097, l='ServerLevel[world]', x=-174.74, y=62.50, z=-84.50]
+[16Jun2025 23:14:30.077] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1097, l='ServerLevel[world]', x=-174.74, y=62.50, z=-84.50]
+[16Jun2025 23:14:30.080] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1098, l='ServerLevel[world]', x=-181.32, y=63.37, z=-85.69]
+[16Jun2025 23:14:30.082] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1098, l='ServerLevel[world]', x=-181.32, y=63.37, z=-85.69]
+[16Jun2025 23:14:30.083] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1099, l='ServerLevel[world]', x=-188.44, y=65.36, z=-79.48]
+[16Jun2025 23:14:30.085] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1099, l='ServerLevel[world]', x=-188.44, y=65.36, z=-79.48]
+[16Jun2025 23:14:30.087] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/1100, l='ServerLevel[world]', x=-183.66, y=63.49, z=-77.53]
+[16Jun2025 23:14:30.088] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/1100, l='ServerLevel[world]', x=-183.66, y=63.49, z=-77.53]
+[16Jun2025 23:14:30.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1101, l='ServerLevel[world]', x=-179.62, y=68.50, z=-92.71]
+[16Jun2025 23:14:30.091] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1101, l='ServerLevel[world]', x=-179.62, y=68.50, z=-92.71]
+[16Jun2025 23:14:30.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1102, l='ServerLevel[world]', x=-179.64, y=61.75, z=-84.57]
+[16Jun2025 23:14:30.092] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1102, l='ServerLevel[world]', x=-179.64, y=61.75, z=-84.57]
+[16Jun2025 23:14:30.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/1104, l='ServerLevel[world]', x=-181.69, y=70.62, z=-92.56]
+[16Jun2025 23:14:30.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/1104, l='ServerLevel[world]', x=-181.69, y=70.62, z=-92.56]
+[16Jun2025 23:14:30.093] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1105, l='ServerLevel[world]', x=-174.37, y=67.71, z=-90.41]
+[16Jun2025 23:14:30.094] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1105, l='ServerLevel[world]', x=-174.37, y=67.71, z=-90.41]
+[16Jun2025 23:14:30.094] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1106, l='ServerLevel[world]', x=-177.42, y=64.72, z=-87.38]
+[16Jun2025 23:14:30.095] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1106, l='ServerLevel[world]', x=-177.42, y=64.72, z=-87.38]
+[16Jun2025 23:14:30.095] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1107, l='ServerLevel[world]', x=-187.64, y=69.40, z=-90.29]
+[16Jun2025 23:14:30.096] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1107, l='ServerLevel[world]', x=-187.64, y=69.40, z=-90.29]
+[16Jun2025 23:14:30.096] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1108, l='ServerLevel[world]', x=-176.37, y=61.53, z=-82.38]
+[16Jun2025 23:14:30.097] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1108, l='ServerLevel[world]', x=-176.37, y=61.53, z=-82.38]
+[16Jun2025 23:14:30.097] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1109, l='ServerLevel[world]', x=-184.37, y=64.73, z=-86.46]
+[16Jun2025 23:14:30.097] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1109, l='ServerLevel[world]', x=-184.37, y=64.73, z=-86.46]
+[16Jun2025 23:14:30.098] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1110, l='ServerLevel[world]', x=-184.32, y=65.33, z=-89.26]
+[16Jun2025 23:14:30.098] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1110, l='ServerLevel[world]', x=-184.32, y=65.33, z=-89.26]
+[16Jun2025 23:14:30.099] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1111, l='ServerLevel[world]', x=-187.68, y=65.27, z=-76.33]
+[16Jun2025 23:14:30.099] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1111, l='ServerLevel[world]', x=-187.68, y=65.27, z=-76.33]
+[16Jun2025 23:14:30.099] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Leather'/1112, l='ServerLevel[world]', x=-185.45, y=70.00, z=-92.34]
+[16Jun2025 23:14:30.100] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Leather'/1112, l='ServerLevel[world]', x=-185.45, y=70.00, z=-92.34]
+[16Jun2025 23:14:30.100] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/1113, l='ServerLevel[world]', x=-190.37, y=69.72, z=-80.71]
+[16Jun2025 23:14:30.101] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/1113, l='ServerLevel[world]', x=-190.37, y=69.72, z=-80.71]
+[16Jun2025 23:14:30.101] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1116, l='ServerLevel[world]', x=-186.29, y=63.36, z=-85.36]
+[16Jun2025 23:14:30.101] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1116, l='ServerLevel[world]', x=-186.29, y=63.36, z=-85.36]
+[16Jun2025 23:14:30.102] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/1117, l='ServerLevel[world]', x=-181.30, y=61.64, z=-80.26]
+[16Jun2025 23:14:30.102] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/1117, l='ServerLevel[world]', x=-181.30, y=61.64, z=-80.26]
+[16Jun2025 23:14:30.102] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1118, l='ServerLevel[world]', x=-184.47, y=68.31, z=-92.26]
+[16Jun2025 23:14:30.104] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1118, l='ServerLevel[world]', x=-184.47, y=68.31, z=-92.26]
+[16Jun2025 23:14:30.104] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1119, l='ServerLevel[world]', x=-187.55, y=63.37, z=-82.59]
+[16Jun2025 23:14:30.105] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1119, l='ServerLevel[world]', x=-187.55, y=63.37, z=-82.59]
+[16Jun2025 23:14:30.105] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1120, l='ServerLevel[world]', x=-175.50, y=66.71, z=-90.58]
+[16Jun2025 23:14:30.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1120, l='ServerLevel[world]', x=-175.50, y=66.71, z=-90.58]
+[16Jun2025 23:14:30.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1121, l='ServerLevel[world]', x=-174.41, y=62.53, z=-86.34]
+[16Jun2025 23:14:30.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/1121, l='ServerLevel[world]', x=-174.41, y=62.53, z=-86.34]
+[16Jun2025 23:14:30.107] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1122, l='ServerLevel[world]', x=-178.73, y=64.67, z=-89.60]
+[16Jun2025 23:14:30.107] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1122, l='ServerLevel[world]', x=-178.73, y=64.67, z=-89.60]
+[16Jun2025 23:14:30.107] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1123, l='ServerLevel[world]', x=-188.28, y=68.41, z=-76.33]
+[16Jun2025 23:14:30.108] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1123, l='ServerLevel[world]', x=-188.28, y=68.41, z=-76.33]
+[16Jun2025 23:14:30.108] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/1124, l='ServerLevel[world]', x=-187.30, y=63.66, z=-84.54]
+[16Jun2025 23:14:30.108] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/1124, l='ServerLevel[world]', x=-187.30, y=63.66, z=-84.54]
+[16Jun2025 23:14:30.109] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1125, l='ServerLevel[world]', x=-178.57, y=64.68, z=-88.68]
+[16Jun2025 23:14:30.109] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1125, l='ServerLevel[world]', x=-178.57, y=64.68, z=-88.68]
+[16Jun2025 23:14:30.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1127, l='ServerLevel[world]', x=-179.74, y=61.62, z=-82.26]
+[16Jun2025 23:14:30.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1127, l='ServerLevel[world]', x=-179.74, y=61.62, z=-82.26]
+[16Jun2025 23:14:30.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1128, l='ServerLevel[world]', x=-182.60, y=68.63, z=-93.32]
+[16Jun2025 23:14:30.111] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1128, l='ServerLevel[world]', x=-182.60, y=68.63, z=-93.32]
+[16Jun2025 23:14:30.113] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1129, l='ServerLevel[world]', x=-180.35, y=63.71, z=-87.26]
+[16Jun2025 23:14:30.113] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1129, l='ServerLevel[world]', x=-180.35, y=63.71, z=-87.26]
+[16Jun2025 23:14:30.114] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1130, l='ServerLevel[world]', x=-190.49, y=68.73, z=-86.53]
+[16Jun2025 23:14:30.116] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1130, l='ServerLevel[world]', x=-190.49, y=68.73, z=-86.53]
+[16Jun2025 23:14:30.116] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1131, l='ServerLevel[world]', x=-184.42, y=69.43, z=-92.32]
+[16Jun2025 23:14:30.117] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/1131, l='ServerLevel[world]', x=-184.42, y=69.43, z=-92.32]
+[16Jun2025 23:14:30.117] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1132, l='ServerLevel[world]', x=-175.63, y=61.31, z=-82.65]
+[16Jun2025 23:14:30.117] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1132, l='ServerLevel[world]', x=-175.63, y=61.31, z=-82.65]
+[16Jun2025 23:14:39.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> creo q sería god q hata un momento en el q se ponen a experimentar con el bloque de comandos
+[16Jun2025 23:14:39.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> hacer el laboratorio primero
+[16Jun2025 23:14:40.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RompOrTos has made the advancement [Stone Age]
+[16Jun2025 23:14:45.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> ya
+[16Jun2025 23:14:51.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> tipo así
+[16Jun2025 23:15:00.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Summoned new Creeper]
+[16Jun2025 23:15:09.694] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1267, l='ServerLevel[world]', x=-180.59, y=52.72, z=-82.33]
+[16Jun2025 23:15:09.695] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/1267, l='ServerLevel[world]', x=-180.59, y=52.72, z=-82.33]
+[16Jun2025 23:15:09.695] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1268, l='ServerLevel[world]', x=-182.59, y=54.29, z=-80.65]
+[16Jun2025 23:15:09.695] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1268, l='ServerLevel[world]', x=-182.59, y=54.29, z=-80.65]
+[16Jun2025 23:15:09.695] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/1269, l='ServerLevel[world]', x=-185.44, y=56.30, z=-81.39]
+[16Jun2025 23:15:09.696] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/1269, l='ServerLevel[world]', x=-185.44, y=56.30, z=-81.39]
+[16Jun2025 23:15:09.696] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1270, l='ServerLevel[world]', x=-181.38, y=55.37, z=-86.61]
+[16Jun2025 23:15:09.696] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1270, l='ServerLevel[world]', x=-181.38, y=55.37, z=-86.61]
+[16Jun2025 23:15:09.696] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1271, l='ServerLevel[world]', x=-183.73, y=53.58, z=-82.59]
+[16Jun2025 23:15:09.698] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/1271, l='ServerLevel[world]', x=-183.73, y=53.58, z=-82.59]
+[16Jun2025 23:15:14.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Killed 20 entities]
+[16Jun2025 23:15:25.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> cómo vas a hacer tu laboratorio p
+[16Jun2025 23:15:30.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> dime y yo hago un plan rápido
+[16Jun2025 23:15:32.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> xdd un cuadrado p
+[16Jun2025 23:15:34.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> tmr
+[16Jun2025 23:15:37.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> xddd
+[16Jun2025 23:15:37.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> dime una habitación
+[16Jun2025 23:15:38.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> tipo
+[16Jun2025 23:15:42.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> una sala de pruebas p wn
+[16Jun2025 23:15:49.802] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: java.io.FileNotFoundException: ./immersive_paintings_cache/immersivepaintingspaintingshazycastledavidfrasheski32pxpng_thumbnail.png (No such file or directory)
+[16Jun2025 23:15:49.802] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[16Jun2025 23:15:49.802] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+[16Jun2025 23:15:49.802] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+[16Jun2025 23:15:49.803] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+[16Jun2025 23:15:49.803] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.resources.Cache.set(Cache.java:53)
+[16Jun2025 23:15:49.803] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.resources.ServerPaintingManager.getImageData(ServerPaintingManager.java:143)
+[16Jun2025 23:15:49.803] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.network.c2s.ImageRequest.receive(ImageRequest.java:39)
+[16Jun2025 23:15:49.803] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$1(NetworkHandlerImpl.java:35)
+[16Jun2025 23:15:49.803] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201)
+[16Jun2025 23:15:49.804] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$2(NetworkHandlerImpl.java:33)
+[16Jun2025 23:15:49.804] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114)
+[16Jun2025 23:15:49.804] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
+[16Jun2025 23:15:49.804] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114)
+[16Jun2025 23:15:49.804] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148)
+[16Jun2025 23:15:49.805] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66)
+[16Jun2025 23:15:49.805] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[16Jun2025 23:15:49.805] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[16Jun2025 23:15:49.805] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[16Jun2025 23:15:49.805] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[16Jun2025 23:15:49.805] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72)
+[16Jun2025 23:15:49.806] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77)
+[16Jun2025 23:15:49.806] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.util.Optional.map(Optional.java:265)
+[16Jun2025 23:15:49.806] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77)
+[16Jun2025 23:15:49.806] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413)
+[16Jun2025 23:15:49.806] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[16Jun2025 23:15:49.806] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[16Jun2025 23:15:49.806] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+[16Jun2025 23:15:49.807] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[16Jun2025 23:15:49.807] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[16Jun2025 23:15:49.807] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[16Jun2025 23:15:49.807] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+[16Jun2025 23:15:49.807] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+[16Jun2025 23:15:49.807] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[16Jun2025 23:15:49.807] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+[16Jun2025 23:15:49.808] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[16Jun2025 23:15:49.808] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103)
+[16Jun2025 23:15:49.808] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696)
+[16Jun2025 23:15:49.808] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[16Jun2025 23:15:49.808] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[16Jun2025 23:15:49.808] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16Jun2025 23:15:49.835] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: java.io.FileNotFoundException: ./immersive_paintings_cache/immersivepaintingspaintingsairshipsalexruizart32pxpng_thumbnail.png (No such file or directory)
+[16Jun2025 23:15:49.835] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[16Jun2025 23:15:49.835] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+[16Jun2025 23:15:49.835] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+[16Jun2025 23:15:49.836] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+[16Jun2025 23:15:49.836] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.resources.Cache.set(Cache.java:53)
+[16Jun2025 23:15:49.836] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.resources.ServerPaintingManager.getImageData(ServerPaintingManager.java:143)
+[16Jun2025 23:15:49.836] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.network.c2s.ImageRequest.receive(ImageRequest.java:39)
+[16Jun2025 23:15:49.836] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$1(NetworkHandlerImpl.java:35)
+[16Jun2025 23:15:49.836] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201)
+[16Jun2025 23:15:49.836] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$2(NetworkHandlerImpl.java:33)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[16Jun2025 23:15:49.837] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.util.Optional.map(Optional.java:265)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[16Jun2025 23:15:49.838] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+[16Jun2025 23:15:49.839] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[16Jun2025 23:15:49.839] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[16Jun2025 23:15:49.839] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[16Jun2025 23:15:49.839] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+[16Jun2025 23:15:49.839] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+[16Jun2025 23:15:49.839] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[16Jun2025 23:15:49.840] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+[16Jun2025 23:15:49.840] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[16Jun2025 23:15:49.840] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103)
+[16Jun2025 23:15:49.840] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696)
+[16Jun2025 23:15:49.840] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[16Jun2025 23:15:49.840] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[16Jun2025 23:15:49.841] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16Jun2025 23:15:49.875] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: java.io.FileNotFoundException: ./immersive_paintings_cache/immersivepaintingspaintingswindmilltowndarekzabrocki32pxpng_thumbnail.png (No such file or directory)
+[16Jun2025 23:15:49.875] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+[16Jun2025 23:15:49.876] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:298)
+[16Jun2025 23:15:49.876] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:237)
+[16Jun2025 23:15:49.876] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:187)
+[16Jun2025 23:15:49.876] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.resources.Cache.set(Cache.java:53)
+[16Jun2025 23:15:49.876] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.resources.ServerPaintingManager.getImageData(ServerPaintingManager.java:143)
+[16Jun2025 23:15:49.876] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.network.c2s.ImageRequest.receive(ImageRequest.java:39)
+[16Jun2025 23:15:49.876] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$1(NetworkHandlerImpl.java:35)
+[16Jun2025 23:15:49.877] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:201)
+[16Jun2025 23:15:49.877] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at immersive_paintings.forge.cobalt.network.NetworkHandlerImpl.lambda$registerMessage$2(NetworkHandlerImpl.java:33)
+[16Jun2025 23:15:49.877] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:114)
+[16Jun2025 23:15:49.877] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.util.Optional.ifPresent(Optional.java:183)
+[16Jun2025 23:15:49.877] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:114)
+[16Jun2025 23:15:49.877] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:148)
+[16Jun2025 23:15:49.878] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:66)
+[16Jun2025 23:15:49.878] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+[16Jun2025 23:15:49.878] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+[16Jun2025 23:15:49.878] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[16Jun2025 23:15:49.878] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[16Jun2025 23:15:49.878] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:72)
+[16Jun2025 23:15:49.878] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:77)
+[16Jun2025 23:15:49.879] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.util.Optional.map(Optional.java:265)
+[16Jun2025 23:15:49.879] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:77)
+[16Jun2025 23:15:49.879] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413)
+[16Jun2025 23:15:49.879] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42)
+[16Jun2025 23:15:49.879] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12)
+[16Jun2025 23:15:49.879] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21)
+[16Jun2025 23:15:49.879] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[16Jun2025 23:15:49.880] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[16Jun2025 23:15:49.880] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[16Jun2025 23:15:49.880] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734)
+[16Jun2025 23:15:49.880] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159)
+[16Jun2025 23:15:49.880] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[16Jun2025 23:15:49.880] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717)
+[16Jun2025 23:15:49.880] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711)
+[16Jun2025 23:15:49.881] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103)
+[16Jun2025 23:15:49.881] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696)
+[16Jun2025 23:15:49.881] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646)
+[16Jun2025 23:15:49.881] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[16Jun2025 23:15:49.881] [Server thread/INFO] [STDERR/]: [immersive_paintings.resources.Cache:set:56]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16Jun2025 23:15:52.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> ponle la sala de experimentasion
+[16Jun2025 23:16:03.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> esa de una mesa
+[16Jun2025 23:16:07.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> xdd
+[16Jun2025 23:16:13.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RompOrTos: Set the time to 1000]
+[16Jun2025 23:16:18.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> explícate
+[16Jun2025 23:16:29.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> hubieras puesto el worldedit
+[16Jun2025 23:16:37.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> xdd utiliza el camando p
+[16Jun2025 23:16:47.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Successfully filled 94 blocks]
+[16Jun2025 23:16:52.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> si ese
+[16Jun2025 23:17:47.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Successfully filled 64 blocks]
+[16Jun2025 23:17:51.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> xdd
+[16Jun2025 23:18:03.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> asi hice el pn de tnt
+[16Jun2025 23:18:08.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Successfully filled 78 blocks]
+[16Jun2025 23:18:10.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Successfully filled 58 blocks]
+[16Jun2025 23:18:13.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Successfully filled 10 blocks]
+[16Jun2025 23:18:14.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Spectator Mode]
+[16Jun2025 23:18:16.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Creative Mode]
+[16Jun2025 23:18:18.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Spectator Mode]
+[16Jun2025 23:18:21.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Creative Mode]
+[16Jun2025 23:20:20.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Spectator Mode]
+[16Jun2025 23:20:22.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Creative Mode]
+[16Jun2025 23:21:25.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> creo ya
+[16Jun2025 23:21:33.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> full improvisacion
+[16Jun2025 23:21:45.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> en la aldea cerca ahi sera la intro pero es para despues
+[16Jun2025 23:22:22.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:23.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Spectator Mode]
+[16Jun2025 23:22:25.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:25.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:28.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:28.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:29.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Set own game mode to Creative Mode]
+[16Jun2025 23:22:31.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:31.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:32.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> xdd
+[16Jun2025 23:22:34.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:34.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:37.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:37.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:40.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Gamerule sendCommandFeedback is now set to: false]
+[16Jun2025 23:22:40.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:40.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:43.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:43.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:46.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:46.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:49.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:50.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:53.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:22:53.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:02.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:05.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:05.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:08.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:09.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:11.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:12.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:14.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:14.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> ya xdd
+[16Jun2025 23:23:15.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:17.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:18.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:20.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> da lag el cambio de camara
+[16Jun2025 23:23:21.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:21.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> está horrible
+[16Jun2025 23:23:21.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:24.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:24.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:27.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:27.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:27.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> claro p
+[16Jun2025 23:23:29.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> xddd
+[16Jun2025 23:23:30.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:30.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:33.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:33.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:34.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Smile_and_Eye> déjame arreglar un poco
+[16Jun2025 23:23:36.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:36.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:38.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RompOrTos> como cualquier laboratorio de experimentacion
+[16Jun2025 23:23:39.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:40.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:42.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:43.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:45.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:46.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:48.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:49.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:52.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:52.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:55.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:55.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:58.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:23:58.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:01.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:01.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:04.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:04.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:07.463] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1915, l='ServerLevel[world]', x=-186.70, y=53.00, z=-78.44] died, message: 'Villager was slain by RompOrTos'
+[16Jun2025 23:24:07.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Smile_and_Eye: Killed Enderman]
+[16Jun2025 23:24:07.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:07.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:10.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:11.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:13.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:14.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:16.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:17.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:19.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:20.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:23.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:23.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:26.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:26.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:29.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:29.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:32.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
+[16Jun2025 23:24:32.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Changed the block at -181, 57, -84]
