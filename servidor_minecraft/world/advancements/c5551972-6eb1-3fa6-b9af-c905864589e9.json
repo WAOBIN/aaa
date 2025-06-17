@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "witherstormmod:main/summon_wither_storm": {
+    "criteria": {
+      "summoned_wither_storm": "2025-06-17 00:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-16 23:08:33 +0000"
@@ -325,6 +331,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-17 00:39:28 +0000",
       "bread": "2025-06-16 23:34:54 +0000",
       "golden_carrot": "2025-06-17 00:03:55 +0000"
     },
@@ -648,6 +655,12 @@
     },
     "done": true
   },
+  "witherstormmod:main/root": {
+    "criteria": {
+      "summoned_wither_storm": "2025-06-17 00:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-16 23:25:37 +0000"
@@ -786,9 +799,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-17 00:39:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-16 23:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-17 00:39:15 +0000"
     },
     "done": true
   },
@@ -866,7 +891,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2025-06-16 23:45:57 +0000"
+      "minecraft:creeper": "2025-06-16 23:45:57 +0000",
+      "minecraft:witch": "2025-06-17 00:37:18 +0000"
     },
     "done": false
   },

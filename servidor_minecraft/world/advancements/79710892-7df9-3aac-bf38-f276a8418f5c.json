@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "witherstormmod:main/summon_wither_storm": {
+    "criteria": {
+      "summoned_wither_storm": "2025-06-17 00:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-16 23:26:38 +0000"
@@ -521,6 +527,12 @@
     },
     "done": true
   },
+  "witherstormmod:main/root": {
+    "criteria": {
+      "summoned_wither_storm": "2025-06-17 00:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-16 23:20:45 +0000"
@@ -614,6 +626,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-17 00:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-17 00:38:49 +0000"
     },
     "done": true
   },
